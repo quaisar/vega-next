@@ -1,0 +1,220 @@
+@media only screen and (min-width: 1367px) and (max-width: 1920px) {
+    .platform-box{
+        padding: 2.5rem 5.7rem;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .platform-box {
+        padding: 2rem 2rem;
+    }
+    .contact-details ul li .info-text {
+        padding-left: 0.5rem;
+    }
+    .contact-details ul li .info-text a {
+        font-size: 0.8rem;
+    }
+    .contact-details ul li .info-text h6 {
+        font-size: 0.7rem;
+    }
+    .info-icon{
+        width: 1.5rem;
+    }
+    .info-icon img{
+        max-width: 100%;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    header {
+        padding-bottom: 0.313rem;
+    }
+    .contact-details {
+        width: 100%;
+    }
+    .contact-details ul {
+        justify-content: center;
+    }
+    .info-icon{
+        width: 1.5rem;
+    }
+    .info-icon img{
+        max-width: 100%;
+    }
+    .header-top {
+        flex-direction: column;
+    }
+    .logo{
+        width: 10rem;
+        margin: 0.625rem auto;  
+    }
+    .logo img{
+        max-width: 100%;
+    }
+    .header-social{
+        justify-content: center;
+        margin-bottom: 0.5rem;
+        width: 100%;
+    }
+    .header-social .btn-warning{
+        padding: 0.688rem 0.938rem;
+    }
+    .header-social .btn-warning i {
+        display: block;
+    }
+    .header-social .btn-warning span{
+        display: none;
+    }
+    .social-links{
+        margin-bottom:  0;
+    }
+    .navbar-toggler {
+        background: #fff;
+    }
+    .navbar {
+        top: 0;
+        background: #0d2334;
+        border-radius: 0.625rem;
+        padding: 0.25rem 0;
+    }
+    .navbar.fixed {
+        border-radius: 0;
+    }
+    .navbar-nav .nav-link {
+        color: #d1d1d1;
+    }
+    .nav-item {
+        margin: 0.2rem 0rem;
+    }
+    .banner-caption {
+        min-width: 94%;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 0;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        background: #8f8f8f;
+    }
+    .about-company {
+        padding: 2rem 0;
+    }
+    .about-image{
+        margin: 0.938rem 0;
+    }
+    .about-image:after {
+        top: 0;
+        left: 0;
+    }
+    .our-platform {
+        padding: 2rem 0;
+    }
+    .platform-box {
+        padding: 2.5rem 3.2rem;
+    }
+    .login-left {
+        display: none;
+    }
+
+}
+@media only screen and (max-width: 767px) {
+    header {
+        padding-bottom: 0.313rem;
+    }
+    .contact-details {
+        width: 100%;
+    }
+    .contact-details ul {
+        justify-content: center;
+    }
+    .contact-details ul li .info-text {
+        padding-left: 0.5rem;
+    }
+    .contact-details ul li .info-text a {
+        font-size: 0.8rem;
+    }
+    .contact-details ul li .info-text h6 {
+        font-size: 0.7rem;
+    }
+    .info-icon{
+        width: 1.5rem;
+    }
+    .info-icon img{
+        max-width: 100%;
+    }
+    .header-top {
+        flex-direction: column;
+    }
+    .logo{
+        width: 10rem;
+        margin: 0.625rem auto;  
+    }
+    .logo img{
+        max-width: 100%;
+    }
+    .header-social{
+        justify-content: center;
+        margin-bottom: 0.5rem;
+        width: 100%;
+    }
+    .header-social .btn-warning{
+        padding: 0.688rem 0.938rem;
+    }
+    .header-social .btn-warning i {
+        display: block;
+    }
+    .header-social .btn-warning span{
+        display: none;
+    }
+    .social-links{
+        margin-bottom:  0;
+    }
+    .navbar-toggler {
+        background: #fff;
+    }
+    .navbar {
+        top: 0;
+        background: #0d2334;
+        border-radius: 0.625rem;
+        padding: 0.25rem 0;
+    }
+    .navbar.fixed {
+        border-radius: 0;
+    }
+    .navbar-nav .nav-link {
+        color: #d1d1d1;
+    }
+    .nav-item {
+        margin: 0.2rem 0rem;
+    }
+    .banner-caption {
+        min-width: 94%;
+    }
+    .banner-caption h1 {
+        font-size: 1.3rem;
+    }
+    .banner-caption h4 {
+        font-size: 0.85rem;
+        margin: 0.5rem 0;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 0;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        background: #8f8f8f;
+    }
+    .about-company {
+        padding: 2rem 0;
+    }
+    .about-image{
+        margin: 0.938rem 0;
+    }
+    .about-image:after {
+        top: 0;
+        left: 0;
+    }
+    .our-platform {
+        padding: 2rem 0;
+    }
+    .login-left {
+        display: none;
+    }
+
+}
